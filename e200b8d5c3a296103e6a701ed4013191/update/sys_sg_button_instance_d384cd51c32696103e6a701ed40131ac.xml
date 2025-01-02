@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (My To Dos)">d384cd51c32696103e6a701ed40131ab</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete</name>
+        <order/>
+        <parent>d384cd51c32696103e6a701ed40131a8</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 09:27:43</sys_created_on>
+        <sys_id>d384cd51c32696103e6a701ed40131ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="To Do" source="x_1585656_to_do">e200b8d5c3a296103e6a701ed4013191</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">e200b8d5c3a296103e6a701ed4013191</sys_scope>
+        <sys_update_name>sys_sg_button_instance_d384cd51c32696103e6a701ed40131ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 09:27:43</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=d384cd51c32696103e6a701ed40131ac"/>
+</record_update>

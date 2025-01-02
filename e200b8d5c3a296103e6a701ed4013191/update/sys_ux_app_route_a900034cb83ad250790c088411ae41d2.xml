@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="To Do Workspace App Config">ed00034c3e3ad250b28867956aa10ee9</app_config>
+        <description/>
+        <extension_point/>
+        <fields>globalSearchViewConfigId</fields>
+        <icon/>
+        <name>Search</name>
+        <optional_parameters>searchTerm</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>search</route_type>
+        <screen_type display_value="Search">e500034c603ad250b7394995a0d450d2</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-26 07:30:30</sys_created_on>
+        <sys_id>a900034cb83ad250790c088411ae41d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search</sys_name>
+        <sys_package display_value="To Do" source="x_1585656_to_do">e200b8d5c3a296103e6a701ed4013191</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">e200b8d5c3a296103e6a701ed4013191</sys_scope>
+        <sys_update_name>sys_ux_app_route_a900034cb83ad250790c088411ae41d2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-26 07:30:30</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=a900034cb83ad250790c088411ae41d2"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (My To Dos)">1784cd51c32696103e6a701ed40131e6</button>
+        <item_parameter display_value="My To Dos importance">1b84cd51c32696103e6a701ed40131af</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 09:27:43</sys_created_on>
+        <sys_id>9784cd51c32696103e6a701ed40131ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1b84cd51c32696103e6a701ed40131af</sys_name>
+        <sys_package display_value="To Do" source="x_1585656_to_do">e200b8d5c3a296103e6a701ed4013191</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">e200b8d5c3a296103e6a701ed4013191</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_9784cd51c32696103e6a701ed40131ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 09:27:43</sys_updated_on>
+        <ui_parameter display_value="Importance">1384cd51c32696103e6a701ed40131e9</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

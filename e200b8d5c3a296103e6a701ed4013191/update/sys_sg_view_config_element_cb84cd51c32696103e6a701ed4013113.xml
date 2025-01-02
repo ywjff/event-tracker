@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>importance-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-17 09:27:42</sys_created_on>
+        <sys_id>cb84cd51c32696103e6a701ed4013113</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>importance-FieldValue</sys_name>
+        <sys_package display_value="To Do" source="x_1585656_to_do">e200b8d5c3a296103e6a701ed4013191</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">e200b8d5c3a296103e6a701ed4013191</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_cb84cd51c32696103e6a701ed4013113</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-17 09:27:42</sys_updated_on>
+        <view_config display_value="My To Dos List Screen View Config">cf84cd51c32696103e6a701ed4013112</view_config>
+        <view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1585656_to_do.Audience for app to-do-workspace</api_name>
+        <description/>
+        <name>Audience for app to-do-workspace</name>
+        <role_names/>
+        <roles>a600b8d5c3a296103e6a701ed40131c0,ae9d1b4fc322de103e6a701ed401315f,ba00b8d5c3a296103e6a701ed40131d2</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-26 07:30:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e200834cc33ad2503e6a701ed4013105</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app to-do-workspace</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_1585656_to_do">e200b8d5c3a296103e6a701ed4013191</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">e200b8d5c3a296103e6a701ed4013191</sys_scope>
+        <sys_update_name>sys_ux_applicability_e200834cc33ad2503e6a701ed4013105</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-26 07:30:32</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>
